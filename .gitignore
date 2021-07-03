@@ -1,4 +1,2 @@
 # excluding node_modules to run this app first run npm install to install the node_models
 /nodeserver/node_modules
-
-# lol
